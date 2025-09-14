@@ -72,7 +72,7 @@
     text_deepseek_model_name = "deepseek-chat"
 
     ########## Gemini API Key
-    text_gemini_api_key=""
+    text_gemini_api_key="AIzaSyAa_jOpxVBrQLySyeMoMXpZPbCstG-nisA"
     text_gemini_model_name = "gemini-2.0-flash"
     text_gemini_base_url = "https://generativelanguage.googleapis.com/v1beta"
 
